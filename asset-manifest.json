@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DYNAMICS_WEB/static/css/main.749f652a.css",
+    "main.js": "/DYNAMICS_WEB/static/js/main.8bc94f69.js",
+    "static/js/453.1c2b614c.chunk.js": "/DYNAMICS_WEB/static/js/453.1c2b614c.chunk.js",
+    "static/media/dynamics_logo.png": "/DYNAMICS_WEB/static/media/dynamics_logo.ec479fdac003731e647b.png",
+    "static/media/WMF.jpg": "/DYNAMICS_WEB/static/media/WMF.398554ce7ec7e972567d.jpg",
+    "static/media/locker_room.jpg": "/DYNAMICS_WEB/static/media/locker_room.7e59462399497804c8b6.jpg",
+    "static/media/accolades.jpg": "/DYNAMICS_WEB/static/media/accolades.f013428a2985f4e5fe9e.jpg",
+    "static/media/offer.png": "/DYNAMICS_WEB/static/media/offer.16aaebe2f19f694def0a.png",
+    "static/media/BlackOpsOne-Regular.ttf": "/DYNAMICS_WEB/static/media/BlackOpsOne-Regular.3efee5a74cbfdae419cd.ttf",
+    "index.html": "/DYNAMICS_WEB/index.html",
+    "main.749f652a.css.map": "/DYNAMICS_WEB/static/css/main.749f652a.css.map",
+    "main.8bc94f69.js.map": "/DYNAMICS_WEB/static/js/main.8bc94f69.js.map",
+    "453.1c2b614c.chunk.js.map": "/DYNAMICS_WEB/static/js/453.1c2b614c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.749f652a.css",
+    "static/js/main.8bc94f69.js"
+  ]
+}
