@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/DYNAMICS_WEB/static/css/main.2e45cdbd.css",
-    "main.js": "/DYNAMICS_WEB/static/js/main.df2bb552.js",
+    "main.css": "/DYNAMICS_WEB/static/css/main.9264e6b1.css",
+    "main.js": "/DYNAMICS_WEB/static/js/main.40ebe05a.js",
     "static/js/453.1c2b614c.chunk.js": "/DYNAMICS_WEB/static/js/453.1c2b614c.chunk.js",
+    "static/media/aboutTwo.jpg": "/DYNAMICS_WEB/static/media/aboutTwo.2bca6d1431225d4beac5.jpg",
     "static/media/dynamics_logo.png": "/DYNAMICS_WEB/static/media/dynamics_logo.ec479fdac003731e647b.png",
     "static/media/WMF.jpg": "/DYNAMICS_WEB/static/media/WMF.398554ce7ec7e972567d.jpg",
     "static/media/locker_room.jpg": "/DYNAMICS_WEB/static/media/locker_room.7e59462399497804c8b6.jpg",
     "static/media/accolades.jpg": "/DYNAMICS_WEB/static/media/accolades.f013428a2985f4e5fe9e.jpg",
     "static/media/offer.png": "/DYNAMICS_WEB/static/media/offer.16aaebe2f19f694def0a.png",
     "static/media/BlackOpsOne-Regular.ttf": "/DYNAMICS_WEB/static/media/BlackOpsOne-Regular.3efee5a74cbfdae419cd.ttf",
+    "static/media/aboutThree.jpg": "/DYNAMICS_WEB/static/media/aboutThree.0eec22f63bc1911ac9aa.jpg",
+    "static/media/aboutOne.jpg": "/DYNAMICS_WEB/static/media/aboutOne.5861630fc4bf1e0c6442.jpg",
     "index.html": "/DYNAMICS_WEB/index.html",
-    "main.2e45cdbd.css.map": "/DYNAMICS_WEB/static/css/main.2e45cdbd.css.map",
-    "main.df2bb552.js.map": "/DYNAMICS_WEB/static/js/main.df2bb552.js.map",
+    "main.9264e6b1.css.map": "/DYNAMICS_WEB/static/css/main.9264e6b1.css.map",
+    "main.40ebe05a.js.map": "/DYNAMICS_WEB/static/js/main.40ebe05a.js.map",
     "453.1c2b614c.chunk.js.map": "/DYNAMICS_WEB/static/js/453.1c2b614c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e45cdbd.css",
-    "static/js/main.df2bb552.js"
+    "static/css/main.9264e6b1.css",
+    "static/js/main.40ebe05a.js"
   ]
 }
