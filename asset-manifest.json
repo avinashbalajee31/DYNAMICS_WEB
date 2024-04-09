@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DYNAMICS_WEB/static/css/main.dd4b070c.css",
-    "main.js": "/DYNAMICS_WEB/static/js/main.78cedd69.js",
+    "main.css": "/DYNAMICS_WEB/static/css/main.54e9faf4.css",
+    "main.js": "/DYNAMICS_WEB/static/js/main.77128f40.js",
     "static/js/453.1b52b2a5.chunk.js": "/DYNAMICS_WEB/static/js/453.1b52b2a5.chunk.js",
     "static/media/check_mobile.jpg": "/DYNAMICS_WEB/static/media/check_mobile.76a3c1045b33f24d7f5a.jpg",
     "static/media/check_mobile_2.jpg": "/DYNAMICS_WEB/static/media/check_mobile_2.ddfa96260a8749a8442c.jpg",
@@ -25,12 +25,12 @@
     "static/media/dynoFit.jpeg": "/DYNAMICS_WEB/static/media/dynoFit.068319f1fbbcdcc1f689.jpeg",
     "static/media/dynoKO.jpeg": "/DYNAMICS_WEB/static/media/dynoKO.455ec282ee7fa1650a4c.jpeg",
     "index.html": "/DYNAMICS_WEB/index.html",
-    "main.dd4b070c.css.map": "/DYNAMICS_WEB/static/css/main.dd4b070c.css.map",
-    "main.78cedd69.js.map": "/DYNAMICS_WEB/static/js/main.78cedd69.js.map",
+    "main.54e9faf4.css.map": "/DYNAMICS_WEB/static/css/main.54e9faf4.css.map",
+    "main.77128f40.js.map": "/DYNAMICS_WEB/static/js/main.77128f40.js.map",
     "453.1b52b2a5.chunk.js.map": "/DYNAMICS_WEB/static/js/453.1b52b2a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd4b070c.css",
-    "static/js/main.78cedd69.js"
+    "static/css/main.54e9faf4.css",
+    "static/js/main.77128f40.js"
   ]
 }
