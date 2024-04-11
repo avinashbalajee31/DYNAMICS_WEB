@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DYNAMICS_WEB/static/css/main.54e9faf4.css",
-    "main.js": "/DYNAMICS_WEB/static/js/main.77128f40.js",
+    "main.js": "/DYNAMICS_WEB/static/js/main.95cb2a04.js",
     "static/js/453.1b52b2a5.chunk.js": "/DYNAMICS_WEB/static/js/453.1b52b2a5.chunk.js",
     "static/media/check_mobile.jpg": "/DYNAMICS_WEB/static/media/check_mobile.76a3c1045b33f24d7f5a.jpg",
     "static/media/check_mobile_2.jpg": "/DYNAMICS_WEB/static/media/check_mobile_2.ddfa96260a8749a8442c.jpg",
@@ -15,6 +15,7 @@
     "static/media/aboutFour.jpg": "/DYNAMICS_WEB/static/media/aboutFour.020d7d18b4006be6b8c5.jpg",
     "static/media/aboutThreee.jpg": "/DYNAMICS_WEB/static/media/aboutThreee.c5de3cd8a7fb53371c53.jpg",
     "static/media/BlackOpsOne-Regular.ttf": "/DYNAMICS_WEB/static/media/BlackOpsOne-Regular.3efee5a74cbfdae419cd.ttf",
+    "static/media/aboutThree.jpg": "/DYNAMICS_WEB/static/media/aboutThree.0eec22f63bc1911ac9aa.jpg",
     "static/media/GroupFive.jpg": "/DYNAMICS_WEB/static/media/GroupFive.0d3c81266502a4fc37ee.jpg",
     "static/media/aboutOne.jpg": "/DYNAMICS_WEB/static/media/aboutOne.5861630fc4bf1e0c6442.jpg",
     "static/media/GroupFour.jpg": "/DYNAMICS_WEB/static/media/GroupFour.7c9e763d5795981cd453.jpg",
@@ -26,11 +27,11 @@
     "static/media/dynoKO.jpeg": "/DYNAMICS_WEB/static/media/dynoKO.455ec282ee7fa1650a4c.jpeg",
     "index.html": "/DYNAMICS_WEB/index.html",
     "main.54e9faf4.css.map": "/DYNAMICS_WEB/static/css/main.54e9faf4.css.map",
-    "main.77128f40.js.map": "/DYNAMICS_WEB/static/js/main.77128f40.js.map",
+    "main.95cb2a04.js.map": "/DYNAMICS_WEB/static/js/main.95cb2a04.js.map",
     "453.1b52b2a5.chunk.js.map": "/DYNAMICS_WEB/static/js/453.1b52b2a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54e9faf4.css",
-    "static/js/main.77128f40.js"
+    "static/js/main.95cb2a04.js"
   ]
 }
