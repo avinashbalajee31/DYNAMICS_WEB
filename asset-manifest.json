@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DYNAMICS_WEB/static/css/main.6f55668a.css",
-    "main.js": "/DYNAMICS_WEB/static/js/main.31f725bd.js",
+    "main.css": "/DYNAMICS_WEB/static/css/main.d6785242.css",
+    "main.js": "/DYNAMICS_WEB/static/js/main.a4f19bf7.js",
     "static/js/453.1b52b2a5.chunk.js": "/DYNAMICS_WEB/static/js/453.1b52b2a5.chunk.js",
     "static/media/WMF.png": "/DYNAMICS_WEB/static/media/WMF.53023d3fe0cfa1b3094c.png",
     "static/media/lockerRoom.png": "/DYNAMICS_WEB/static/media/lockerRoom.4f14be777195547001af.png",
@@ -30,14 +30,14 @@
     "static/media/GroupFour.jpg": "/DYNAMICS_WEB/static/media/GroupFour.7c9e763d5795981cd453.jpg",
     "static/media/GroupSix.jpg": "/DYNAMICS_WEB/static/media/GroupSix.ce867995d4ebd70fd75a.jpg",
     "static/media/GroupOne.jpg": "/DYNAMICS_WEB/static/media/GroupOne.4a5894fe77e70f845cd4.jpg",
-    "static/media/dynoFit.jpeg": "/DYNAMICS_WEB/static/media/dynoFit.068319f1fbbcdcc1f689.jpeg",
+    "static/media/dynoFit.png": "/DYNAMICS_WEB/static/media/dynoFit.335b8b05642858e69c69.png",
     "index.html": "/DYNAMICS_WEB/index.html",
-    "main.6f55668a.css.map": "/DYNAMICS_WEB/static/css/main.6f55668a.css.map",
-    "main.31f725bd.js.map": "/DYNAMICS_WEB/static/js/main.31f725bd.js.map",
+    "main.d6785242.css.map": "/DYNAMICS_WEB/static/css/main.d6785242.css.map",
+    "main.a4f19bf7.js.map": "/DYNAMICS_WEB/static/js/main.a4f19bf7.js.map",
     "453.1b52b2a5.chunk.js.map": "/DYNAMICS_WEB/static/js/453.1b52b2a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f55668a.css",
-    "static/js/main.31f725bd.js"
+    "static/css/main.d6785242.css",
+    "static/js/main.a4f19bf7.js"
   ]
 }
