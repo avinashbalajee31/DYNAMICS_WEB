@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DYNAMICS_WEB/static/css/main.b4aa4c9c.css",
-    "main.js": "/DYNAMICS_WEB/static/js/main.42ab578f.js",
+    "main.js": "/DYNAMICS_WEB/static/js/main.f1cd8809.js",
     "static/js/453.1b52b2a5.chunk.js": "/DYNAMICS_WEB/static/js/453.1b52b2a5.chunk.js",
     "static/media/check_mobile.jpg": "/DYNAMICS_WEB/static/media/check_mobile.76a3c1045b33f24d7f5a.jpg",
     "static/media/check_mobile_2.jpg": "/DYNAMICS_WEB/static/media/check_mobile_2.ddfa96260a8749a8442c.jpg",
@@ -27,11 +27,11 @@
     "static/media/dynoKO.jpeg": "/DYNAMICS_WEB/static/media/dynoKO.455ec282ee7fa1650a4c.jpeg",
     "index.html": "/DYNAMICS_WEB/index.html",
     "main.b4aa4c9c.css.map": "/DYNAMICS_WEB/static/css/main.b4aa4c9c.css.map",
-    "main.42ab578f.js.map": "/DYNAMICS_WEB/static/js/main.42ab578f.js.map",
+    "main.f1cd8809.js.map": "/DYNAMICS_WEB/static/js/main.f1cd8809.js.map",
     "453.1b52b2a5.chunk.js.map": "/DYNAMICS_WEB/static/js/453.1b52b2a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4aa4c9c.css",
-    "static/js/main.42ab578f.js"
+    "static/js/main.f1cd8809.js"
   ]
 }
