@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DYNAMICS_WEB/static/css/main.915383ce.css",
-    "main.js": "/DYNAMICS_WEB/static/js/main.b6867277.js",
+    "main.css": "/DYNAMICS_WEB/static/css/main.87a224d7.css",
+    "main.js": "/DYNAMICS_WEB/static/js/main.51a2712e.js",
     "static/js/453.1b52b2a5.chunk.js": "/DYNAMICS_WEB/static/js/453.1b52b2a5.chunk.js",
     "static/media/WMF.png": "/DYNAMICS_WEB/static/media/WMF.53023d3fe0cfa1b3094c.png",
     "static/media/lockerRoom.png": "/DYNAMICS_WEB/static/media/lockerRoom.4f14be777195547001af.png",
@@ -32,12 +32,12 @@
     "static/media/GroupOne.jpg": "/DYNAMICS_WEB/static/media/GroupOne.4a5894fe77e70f845cd4.jpg",
     "static/media/dynoFit.png": "/DYNAMICS_WEB/static/media/dynoFit.335b8b05642858e69c69.png",
     "index.html": "/DYNAMICS_WEB/index.html",
-    "main.915383ce.css.map": "/DYNAMICS_WEB/static/css/main.915383ce.css.map",
-    "main.b6867277.js.map": "/DYNAMICS_WEB/static/js/main.b6867277.js.map",
+    "main.87a224d7.css.map": "/DYNAMICS_WEB/static/css/main.87a224d7.css.map",
+    "main.51a2712e.js.map": "/DYNAMICS_WEB/static/js/main.51a2712e.js.map",
     "453.1b52b2a5.chunk.js.map": "/DYNAMICS_WEB/static/js/453.1b52b2a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.915383ce.css",
-    "static/js/main.b6867277.js"
+    "static/css/main.87a224d7.css",
+    "static/js/main.51a2712e.js"
   ]
 }
