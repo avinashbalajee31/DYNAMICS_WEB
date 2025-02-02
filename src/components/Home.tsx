@@ -188,29 +188,26 @@ export function Home() {
                                             <p className="text-sm text-red-700 font-normal leading-relaxed">Feel free to send us a message, will call you back.</p>
                                         </div>
                                     </div>
-                                    <div className="divide-y divide-gray-200 ">
-                                        <div className="py-8 text-base leading-6 space-y-4 text-gray-700 sm:text-lg sm:leading-7 w-[30vw]">
-                                            <div className="flex flex-col">
-                                                {/* <label className="leading-loose">Name</label> */}
-                                                <input type="text" className="px-4 py-2 border focus:ring-gray-500 focus:border-gray-900 w-full sm:text-sm border-gray-300 rounded-md focus:outline-none text-gray-600" placeholder="Name" />
-                                            </div>
-                                            <div className="flex flex-col">
-                                                {/* <label className="leading-loose">Event Subtitle</label> */}
-                                                <input type="text" className="px-4 py-2 border focus:ring-gray-500 focus:border-gray-900 w-full sm:text-sm border-gray-300 rounded-md focus:outline-none text-gray-600" placeholder="Email - ID" />
-                                            </div>
-                                            <div className="flex flex-col">
-                                                {/* <label className="leading-loose">Event Subtitle</label> */}
-                                                <input type="tel" maxLength={10}  className="px-4 py-2 border focus:ring-gray-500 focus:border-gray-900 w-full sm:text-sm border-gray-300 rounded-md focus:outline-none text-gray-600" placeholder="Mobile Number" />
-                                            </div>
-                                            <div className="flex flex-col">
-                                                {/* <label className="leading-loose">Event Description</label> */}
-                                                <input type="text" size={20} className="px-4 py-2 border focus:ring-gray-500 focus:border-gray-900 w-full sm:text-md border-gray-300 rounded-md focus:outline-none text-gray-600" placeholder="Query" />
-                                            </div>
-                                        </div>
-                                        <div className="pt-4 flex items-center space-x-4">
-                                            <button className="bg-red-700 flex justify-center items-center w-full text-white px-4 py-3 rounded-md focus:outline-none">Send</button>
-                                        </div>
-                                    </div>
+                                    <div className="divide-y divide-gray-200 w-full max-w-md mx-auto">
+    <div className="py-8 text-base leading-6 space-y-4 text-gray-700 sm:text-lg sm:leading-7 w-full">
+        <div className="flex flex-col">
+            <input type="text" className="px-4 py-2 border focus:ring-gray-500 focus:border-gray-900 w-full sm:text-sm border-gray-300 rounded-md focus:outline-none text-gray-600" placeholder="Name" />
+        </div>
+        <div className="flex flex-col">
+            <input type="text" className="px-4 py-2 border focus:ring-gray-500 focus:border-gray-900 w-full sm:text-sm border-gray-300 rounded-md focus:outline-none text-gray-600" placeholder="Email - ID" />
+        </div>
+        <div className="flex flex-col">
+            <input type="tel" maxLength={10} className="px-4 py-2 border focus:ring-gray-500 focus:border-gray-900 w-full sm:text-sm border-gray-300 rounded-md focus:outline-none text-gray-600" placeholder="Mobile Number" />
+        </div>
+        <div className="flex flex-col">
+            <input type="text" size={20} className="px-4 py-2 border focus:ring-gray-500 focus:border-gray-900 w-full sm:text-md border-gray-300 rounded-md focus:outline-none text-gray-600" placeholder="Query" />
+        </div>
+    </div>
+    <div className="pt-4 flex items-center space-x-4">
+        <button className="bg-red-700 flex justify-center items-center w-full text-white px-4 py-3 rounded-md focus:outline-none">Send</button>
+    </div>
+</div>
+
                                 </div>
                             </div>
                         </div>

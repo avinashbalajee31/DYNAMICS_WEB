@@ -4,6 +4,8 @@ import YouTubeIcon from '@mui/icons-material/YouTube';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
+
+
 const footerStyle: React.CSSProperties = {
   backgroundColor: '#333',
   color: '#fff',
